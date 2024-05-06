@@ -1,4 +1,7 @@
 import PropTypes from 'prop-types';
+import FavoriteIcon from '@mui/icons-material/Favorite';
+import CommentIcon from '@mui/icons-material/Comment';
+import ShareIcon from '@mui/icons-material/Share';
 
 
 const MovieCard=(props)=>{
@@ -14,6 +17,12 @@ const MovieCard=(props)=>{
 
                     <p className=' mt-10 text-xl'>{props.plot}</p>
                 </div>
+            </div>
+
+            <div className='flex gap-8 p-6 mt-4'>
+                <FavoriteIcon sx={{ color: "gray", fontSize: "30px"}}/>
+                <CommentIcon sx={{ color: "gray", fontSize: "30px"}}/>
+                <ShareIcon sx={{ color: "gray", fontSize: "30px"}}/>
             </div>
         </div>
     )
