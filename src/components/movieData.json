@@ -1,0 +1,440 @@
+[
+    {
+        "Title": "Avengers: Endgame",
+        "Year": "2019",
+        "Rated": "PG-13",
+        "Released": "26 Apr 2019",
+        "Runtime": "181 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Anthony Russo, Joe Russo",
+        "Writer": "Christopher Markus, Stephen McFeely, Stan Lee",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+        "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "Language": "English, Japanese, Xhosa, German",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 70 wins & 133 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "78/100"
+          }
+        ],
+        "Metascore": "78",
+        "imdbRating": "8.4",
+        "imdbVotes": "1,264,820",
+        "imdbID": "tt4154796",
+        "Type": "movie",
+        "DVD": "30 Jul 2019",
+        "BoxOffice": "$858,373,000",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "Avatar: The Way of Water",
+        "Year": "2022",
+        "Rated": "PG-13",
+        "Released": "16 Dec 2022",
+        "Runtime": "192 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Rick Jaffa, Amanda Silver",
+        "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+        "Plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 75 wins & 150 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "67/100"
+          }
+        ],
+        "Metascore": "67",
+        "imdbRating": "7.6",
+        "imdbVotes": "488,471",
+        "imdbID": "tt1630029",
+        "Type": "movie",
+        "DVD": "28 Mar 2023",
+        "BoxOffice": "$684,075,767",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "Dune",
+        "Year": "2021",
+        "Rated": "PG-13",
+        "Released": "22 Oct 2021",
+        "Runtime": "155 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Denis Villeneuve",
+        "Writer": "Jon Spaihts, Denis Villeneuve, Eric Roth",
+        "Actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+        "Plot": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+        "Language": "English, Mandarin",
+        "Country": "United States, Canada",
+        "Awards": "Won 6 Oscars. 173 wins & 294 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "74/100"
+          }
+        ],
+        "Metascore": "74",
+        "imdbRating": "8.0",
+        "imdbVotes": "835,661",
+        "imdbID": "tt1160419",
+        "Type": "movie",
+        "DVD": "22 Oct 2021",
+        "BoxOffice": "$108,897,830",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "Oppenheimer",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "21 Jul 2023",
+        "Runtime": "180 min",
+        "Genre": "Biography, Drama, History",
+        "Director": "Christopher Nolan",
+        "Writer": "Christopher Nolan, Kai Bird, Martin Sherwin",
+        "Actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+        "Plot": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+        "Language": "English, German, Italian",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 7 Oscars. 344 wins & 358 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "88/100"
+          }
+        ],
+        "Metascore": "88",
+        "imdbRating": "8.3",
+        "imdbVotes": "716,104",
+        "imdbID": "tt15398776",
+        "Type": "movie",
+        "DVD": "21 Nov 2023",
+        "BoxOffice": "$329,862,540",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      
+      {
+        "Title": "Spider-Man: Far from Home",
+        "Year": "2019",
+        "Rated": "PG-13",
+        "Released": "02 Jul 2019",
+        "Runtime": "129 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Jon Watts",
+        "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+        "Actors": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal",
+        "Plot": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+        "Language": "English, Italian, Czech",
+        "Country": "United States, Czech Republic, Australia, Canada, Italy",
+        "Awards": "11 wins & 26 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODA5MTY0OWUtNjdlOC00NDI5LWE3NjYtNDM4MDI2MzE4OWUxXkEyXkFqcGdeQXVyOTAzODkzMjI@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "69/100"
+          }
+        ],
+        "Metascore": "69",
+        "imdbRating": "7.4",
+        "imdbVotes": "556,719",
+        "imdbID": "tt6320628",
+        "Type": "movie",
+        "DVD": "27 Aug 2019",
+        "BoxOffice": "$390,532,085",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "Godzilla vs. Kong",
+        "Year": "2021",
+        "Rated": "PG-13",
+        "Released": "31 Mar 2021",
+        "Runtime": "113 min",
+        "Genre": "Action, Sci-Fi, Thriller",
+        "Director": "Adam Wingard",
+        "Writer": "Terry Rossio, Michael Dougherty, Zach Shields",
+        "Actors": "Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall",
+        "Plot": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+        "Language": "English, American Sign ",
+        "Country": "United States",
+        "Awards": "3 wins & 20 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NzNhNDItYWY0My00ZmE3LTgxMmYtYzQzZWU2NDcxYzVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "59/100"
+          }
+        ],
+        "Metascore": "59",
+        "imdbRating": "6.3",
+        "imdbVotes": "241,122",
+        "imdbID": "tt5034838",
+        "Type": "movie",
+        "DVD": "31 Mar 2021",
+        "BoxOffice": "$100,916,094",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "Barbie",
+        "Year": "2023",
+        "Rated": "PG-13",
+        "Released": "21 Jul 2023",
+        "Runtime": "114 min",
+        "Genre": "Adventure, Comedy, Fantasy",
+        "Director": "Greta Gerwig",
+        "Writer": "Greta Gerwig, Noah Baumbach",
+        "Actors": "Margot Robbie, Ryan Gosling, Issa Rae",
+        "Plot": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "Language": "English, Spanish",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 1 Oscar. 193 wins & 420 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "80/100"
+          }
+        ],
+        "Metascore": "80",
+        "imdbRating": "6.8",
+        "imdbVotes": "535,851",
+        "imdbID": "tt1517268",
+        "Type": "movie",
+        "DVD": "12 Sep 2023",
+        "BoxOffice": "$636,238,421",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "Transformers: Rise of the Beasts",
+        "Year": "2023",
+        "Rated": "PG-13",
+        "Released": "09 Jun 2023",
+        "Runtime": "127 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Steven Caple Jr.",
+        "Writer": "Joby Harold, Darnell Metayer, Josh Peters",
+        "Actors": "Anthony Ramos, Dominique Fishback, Luna Lauren Velez",
+        "Plot": "During the '90s, a new faction of Transformers - the Maximals - join the Autobots as allies in the battle for Earth.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "1 win & 9 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "42/100"
+          }
+        ],
+        "Metascore": "42",
+        "imdbRating": "6.0",
+        "imdbVotes": "102,483",
+        "imdbID": "tt5090568",
+        "Type": "movie",
+        "DVD": "11 Jul 2023",
+        "BoxOffice": "$157,066,392",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "The Super Mario Bros. Movie",
+        "Year": "2023",
+        "Rated": "PG",
+        "Released": "05 Apr 2023",
+        "Runtime": "92 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Aaron Horvath, Michael Jelenic, Pierre Leduc",
+        "Writer": "Matthew Fogel",
+        "Actors": "Chris Pratt, Anya Taylor-Joy, Charlie Day",
+        "Plot": "A plumber named Mario travels through an underground labyrinth with his brother Luigi, trying to save a captured princess.",
+        "Language": "English",
+        "Country": "United States, Japan",
+        "Awards": "1 win & 43 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "59%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "46/100"
+          }
+        ],
+        "Metascore": "46",
+        "imdbRating": "7.0",
+        "imdbVotes": "233,409",
+        "imdbID": "tt6718170",
+        "Type": "movie",
+        "DVD": "16 May 2023",
+        "BoxOffice": "$574,934,330",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "The Nun II",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "08 Sep 2023",
+        "Runtime": "110 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Michael Chaves",
+        "Writer": "Ian Goldberg, Richard Naing, Akela Cooper",
+        "Actors": "Taissa Farmiga, Jonas Bloquet, Storm Reid",
+        "Plot": "1956 - France. A priest is murdered. An evil is spreading. The sequel to the worldwide smash hit follows Sister Irene as she once again comes face-to-face with Valak, the demon nun.",
+        "Language": "English, French, Italian, Romanian",
+        "Country": "United States",
+        "Awards": "1 win & 12 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNmE5MmM2ZGEtNTVlNC00M2Q3LTliMjMtMzg5YjUyMjliZWIzXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "5.6",
+        "imdbVotes": "57,217",
+        "imdbID": "tt10160976",
+        "Type": "movie",
+        "DVD": "03 Oct 2023",
+        "BoxOffice": "$86,267,073",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      {
+        "Title": "John Wick: Chapter 4",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "24 Mar 2023",
+        "Runtime": "169 min",
+        "Genre": "Action, Crime, Thriller",
+        "Director": "Chad Stahelski",
+        "Writer": "Shay Hatten, Michael Finch, Derek Kolstad",
+        "Actors": "Keanu Reeves, Laurence Fishburne, George Georgiou",
+        "Plot": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "Language": "English, Russian, Japanese, Spanish, German, Latin, Cantonese, French",
+        "Country": "Germany, United States",
+        "Awards": "32 wins & 46 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "78/100"
+          }
+        ],
+        "Metascore": "78",
+        "imdbRating": "7.7",
+        "imdbVotes": "332,938",
+        "imdbID": "tt10366206",
+        "Type": "movie",
+        "DVD": "23 May 2023",
+        "BoxOffice": "$187,131,806",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+
+]
